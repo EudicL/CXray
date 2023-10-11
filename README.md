@@ -10,7 +10,7 @@ Aircraft Vision Perception (AVP) Lab, Sun Yat-Sen University, Shenzhen, China
 
 ## Download
 
-You are free to use CXray dataset and all empirical data and metadata under the CC-BY licence. You can download the dataset (only partially provided) using [Baidu Drive](https://pan.baidu.com/s/1DSckPSzifwldnDiUq-Ojrg)(passward: **avp0**). When using this dataset in your research, we would appreciate that you cite our paper.
+You are free to use CXray dataset and all empirical data and metadata under the CC-BY licence. You can download the dataset (only partially provided) using [Baidu Drive](https://pan.baidu.com/s/1DSckPSzifwldnDiUq-Ojrg)(passward: **avp0**) or [Google Drive](https://drive.google.com/drive/folders/18_fG1yVszl0NRFvlrGRWRBZeSz9kXv5r). When using this dataset in your research, we would appreciate that you cite our paper.
 
 
 
